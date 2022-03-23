@@ -1,0 +1,41 @@
+body
+{
+    background: #f5f5f5;
+    margin: 50px 450px;
+}
+.container
+{
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-image: url(kev.jpg);
+    margin: 80px;
+    padding: 40px;
+    text-align: center;
+}
+#increment-btn
+{
+    background: #ff0000;
+    padding: 4px 40px;
+    font-weight: bolder;
+    color: #fff;
+    border: 1px solid #ff0000;
+    border-radius: 3px;
+}
+#save-btn
+{
+    background: #043502;
+    padding: 4px 62px;
+    font-weight: bolder;
+    color: #fff;
+    border: 1px solid #043502;
+    border-radius: 3px;
+}
+#count-el
+{
+    font-size: 35px;
+}
+p
+{
+    font-weight: bold;
+    font-size: 15px;
+}
